@@ -46,7 +46,7 @@ input[type="checkbox"] {
 input[type="checkbox"]:checked + label::before {
     background-color: #159ef8;
     border: 0.5px solid #159ef8;
-    background-image: url(/icons/check.svg);
+    background-image: url(icons/check.svg);
     background-size: 100%;
 
 
@@ -55,7 +55,7 @@ input[type="checkbox"]:checked + #name::before {
     background-color: #159ef8;
     border: 0.5px solid #159ef8;
     background-size: 100%;
-    background-image: url(/icons/minus.svg);
+    background-image: url(icons/minus.svg);
 }
     
 
@@ -81,7 +81,7 @@ label::before {
     width: 13px;
     height: 13px;
     background: grey;
-    background-image: url(/icons/box.svg);
+    background-image: url(icons/box.svg);
     background-size: 100%;
     
     
